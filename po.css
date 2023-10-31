@@ -11,7 +11,7 @@ header{
     background-color: black;
     padding-bottom: 5px;
     padding-top: 25px;
-    background-image: url(img/WFade.png);
+    
     background-repeat: no-repeat;
     /* padding-left: 105px; */
     height: 128px;
@@ -277,6 +277,7 @@ tr:nth-child(odd) {
     header{
         text-align: center;
         padding-left: 0;
+        background-image: url(img/WFade.png);
     }
 
     h1 {
