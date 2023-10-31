@@ -240,7 +240,7 @@ tr:nth-child(odd) {
 @media(min-width: 1024px){
     header{
         grid-area: header;
-        background-image: url(/img/WGlow.png);
+        background-image: url(/img/WFade.png);
         
     }
     nav {
