@@ -238,11 +238,12 @@ tr:nth-child(odd) {
 }
 
 @media(min-width: 1024px){
-    header{
+     header{ 
         grid-area: header;
-        background-image: url(/img/WFade.png);
+        /* background-image: url(/img/WFade.png); */
         
     }
+    
     nav {
         grid-area: nav;
     }
